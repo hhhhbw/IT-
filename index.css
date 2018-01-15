@@ -8,8 +8,8 @@
 	width: 50%;
 }
 .insder-box{
-	border-radius: 3%;
-	border: solid 1px #000;
+	border-radius: 8%;
+	/*order: solid 1px #000;*/
 	background-color: #FFA600;
 	width: 27%;
 	padding-top: 27%;
