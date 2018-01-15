@@ -16,18 +16,3 @@
 7.编码规范：css控制样式时不得使用id
 
 8.编码规范：布局时不使用table，使用div实现
-
-<br>深度思考<br>
-1.HTML文件里开头的Doctype有什么作用
-
-2.如何理解盒模型及其content、padding、border、margin？
-
-3.常见的inline元素、block元素、inline-block元素有哪些？它们之间有什么区别
-
-4.如何使用浏览器的F12调试页面？
-
-5.九宫格的布局你还能想到哪些办法实现？它们各自的优势劣势是什么？
-
-6.IDE是什么？它和文本编辑器相比有什么优缺点？
-
-7.加和不加meta的viewport有什么区别？
